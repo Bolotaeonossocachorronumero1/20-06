@@ -1,0 +1,39 @@
+.tlista {
+    font-family: Inter;
+    font-size: 55px;
+    color: #107300;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgtlista {
+    text-align: center;
+}
+
+img {
+    width: 1700px;
+}
+
+h2 {
+    font-family: Inter;
+    font-size: 40px;
+}
+
+p {
+    line-height: 20%;
+    font-family: Inter;
+    font-size: 30px;
+}
+
+.mercearia{
+    color: #dc7516;
+}
+
+.açougue {
+    color: #f119f5;
+}
+
+.higiene{
+    color: #e73434;
+}
+
